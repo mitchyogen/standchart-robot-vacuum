@@ -20,7 +20,9 @@ To run the project, run `npm run start`.
 
 To run unit tests, run `npm run test`.
 
-## Running the project On Github
+## Running the project On Github Pages
+
+Go to `https://mitchyogen.github.io/standchart-robot-vacuum/index.html` on your browser
 
 ## Available Scripts
 
