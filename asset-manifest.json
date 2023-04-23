@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.ca99bbb3.chunk.css",
-  "main.js": "/static/js/main.d5a174b4.chunk.js",
-  "main.js.map": "/static/js/main.d5a174b4.chunk.js.map",
-  "static/js/1.00c9e576.chunk.js": "/static/js/1.00c9e576.chunk.js",
-  "static/js/1.00c9e576.chunk.js.map": "/static/js/1.00c9e576.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.ca99bbb3.chunk.css.map": "/static/css/main.ca99bbb3.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.53f2ac1372fa4f090372c151f7c39788.js": "/precache-manifest.53f2ac1372fa4f090372c151f7c39788.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/standchart-robot-vacuum/static/css/main.ca99bbb3.chunk.css",
+  "main.js": "/standchart-robot-vacuum/static/js/main.d5a174b4.chunk.js",
+  "main.js.map": "/standchart-robot-vacuum/static/js/main.d5a174b4.chunk.js.map",
+  "static/js/1.00c9e576.chunk.js": "/standchart-robot-vacuum/static/js/1.00c9e576.chunk.js",
+  "static/js/1.00c9e576.chunk.js.map": "/standchart-robot-vacuum/static/js/1.00c9e576.chunk.js.map",
+  "runtime~main.js": "/standchart-robot-vacuum/static/js/runtime~main.9c7e8fc4.js",
+  "runtime~main.js.map": "/standchart-robot-vacuum/static/js/runtime~main.9c7e8fc4.js.map",
+  "static/css/main.ca99bbb3.chunk.css.map": "/standchart-robot-vacuum/static/css/main.ca99bbb3.chunk.css.map",
+  "index.html": "/standchart-robot-vacuum/index.html",
+  "precache-manifest.77d584aa4a0215c8a7dba6bc9497398e.js": "/standchart-robot-vacuum/precache-manifest.77d584aa4a0215c8a7dba6bc9497398e.js",
+  "service-worker.js": "/standchart-robot-vacuum/service-worker.js"
 }
